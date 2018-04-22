@@ -1,2 +1,2 @@
 # sapfor
-gestion des stages des sapeur pompiers avec API Rest 
+gestion des stages des sapeurs pompiers avec API Rest 
